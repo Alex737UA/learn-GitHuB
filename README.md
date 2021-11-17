@@ -1,2 +1,1 @@
-# learn-GitHuB
-Изучаем GitHub
+Экскаватор
